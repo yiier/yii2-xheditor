@@ -13,16 +13,22 @@ add
 
 ```json
 
-"repositories":[
+"yiier/yii2-xheditor-widget" : "*"
+```
+
+to the require section of your application's `composer.json` file.
+
+add this too ^_^ 
+```json
+
+ "repositories":[
         {
             "type":"vcs",
             "url":"https://github.com/yiier/yii2-xheditor"
         }
     ],
-"yiier/yii2-xheditor-widget" : "*"
-```
 
-to the require section of your application's `composer.json` file.
+```
 
 
 basic usage :
