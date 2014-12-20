@@ -13,7 +13,7 @@ add
 
 ```json
 
-"yiier/yii2-xheditor-widget" : "*"
+"yiier/yii2-xheditor" : "*"
 ```
 
 to the require section of your application's `composer.json` file.
