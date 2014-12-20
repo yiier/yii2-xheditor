@@ -1,0 +1,22 @@
+{
+    "name": "yiier/yii2-xheditor-widget",
+    "description": "xheditor widget for Yii2.",
+    "keywords": ["yii", "extension", "widget", "xheditor"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "yiqing",
+            "email": "yiqing_95@qq.com",
+            "homepage": "https://github.com/yiqing95"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiier\\xheditor\\": ""
+        }
+    }
+}
